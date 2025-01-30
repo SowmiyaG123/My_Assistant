@@ -54,7 +54,7 @@ def takecmd():
 
 # Main function
 if __name__ == "__main__":
-    speak('I AM JARVIS. Your personal assistant.')
+    speak('I AM GPT2.0 Your personal assistant.')
     wishme()
     
     while True:
