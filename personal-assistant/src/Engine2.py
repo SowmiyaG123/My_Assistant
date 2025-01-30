@@ -4,7 +4,7 @@ import os
 import datetime
 import wikipedia
 import webbrowser
-
+#
 # Initialize speech recognizer and text-to-speech engine
 speech = sr.Recognizer()
 engine = pyttsx3.init('sapi5')
